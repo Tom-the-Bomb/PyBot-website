@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    margin-left: 0%px;
+    margin-top: 0%;
+  }
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 12px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Nunito Sans;
+}
+
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #523ed6;
+    color: white;
+}
+
+body {
+    background-image: url("https://images.hdqwalls.com/wallpapers/python-logo-4k-i6.jpg");
+    background-size: 50%;
+    background-position-x: right;
+    background-repeat: no-repeat;
+    background-color: #101010;
+}
+code { 
+    font-family: 'Courier New';
+    color: #0fbfcf;
+}
+
+* {
+    font-family: 'Quicksand';
+    color: white;
+    line-height: 23px;
+    text-align: justify;
+}
+
+main {
+    margin-left: 20px;
+    margin-top: 3%;
+}
+hr {
+    width: 50%;
+    float: left;
+}
+
+footer {
+    margin-left: 20px;
+    margin-top: 3%;
+}
