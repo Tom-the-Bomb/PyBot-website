@@ -29,6 +29,11 @@
     color: white;
 }
 
+.github {
+    height: 3%;
+    width: 3%;
+}
+
 body {
     background-image: url("https://images.hdqwalls.com/wallpapers/python-logo-4k-i6.jpg");
     background-size: 50%;
