@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 .topnav {
     background-color: #333;
     overflow: hidden;
     margin-left: 0%px;
     margin-top: 0%;
-  }
+}
 
 .topnav a {
     float: left;
@@ -17,7 +19,6 @@
     font-size: 17px;
     font-family: Nunito Sans;
 }
-
 
 .topnav a:hover {
     background-color: #ddd;
@@ -36,7 +37,7 @@
 
 body {
     background-image: url("https://images.hdqwalls.com/wallpapers/python-logo-4k-i6.jpg");
-    background-size: 50%;
+    background-size: 53%;
     background-position-x: right;
     background-repeat: no-repeat;
     background-color: #101010;
@@ -65,4 +66,10 @@ hr {
 footer {
     margin-left: 20px;
     margin-top: 3%;
+}
+
+.headers {
+    font-family: Noto sans jp;
+    font-weight: 600;
+    color: rgb(191, 187, 187);
 }
